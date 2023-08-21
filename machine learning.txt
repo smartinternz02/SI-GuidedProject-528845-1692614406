@@ -1,0 +1,3 @@
+machine learning
+modeling, overfitting and underfitting, correctness, the bias-variance trade off,feature extraction and selection
+k-nearest neighbors, the model, example: The iris dataset, naive bayes, a really dumb spam filter, gradient descent
